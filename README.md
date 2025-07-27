@@ -13,7 +13,6 @@ Aplikasi mobile berbasis Flutter untuk mencatat dan mengelola pengingat harian A
 * **Pengingat Fleksibel:** Atur pengingat untuk tugas-tugas penting agar tidak ada yang terlewat.
 * **Sinkronisasi Real-time:** Data Anda tersimpan aman dan tersinkronisasi di cloud berkat Firebase, dapat diakses dari perangkat mana pun.
 * **Antarmuka Bersih & Minimalis:** Fokus pada esensi pencatatan tanpa gangguan visual.
-* *(Tambahkan fitur lain yang spesifik jika ada, contoh: kategori catatan, mode gelap, dll.)*
 
 ---
 
@@ -23,7 +22,6 @@ Aplikasi mobile berbasis Flutter untuk mencatat dan mengelola pengingat harian A
 * **Firebase:** Platform pengembangan aplikasi dari Google yang menyediakan berbagai layanan *backend* seperti:
     * **Firestore:** Database NoSQL *cloud-hosted* untuk menyimpan dan menyinkronkan data.
     * **Authentication:** Mengelola otentikasi pengguna (misalnya, *login* anonim, email/password, Google Sign-In, dll. - *sebutkan yang Anda pakai*).
-    * *(Sebutkan layanan Firebase lain yang Anda gunakan, contoh: Cloud Functions, Storage, dll.)*
 
 ---
 
@@ -43,10 +41,9 @@ Pastikan Anda telah menginstal yang berikut:
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [https://github.com/KokoYuardi/NoteQ.git](https://github.com/KokoYuardi/NoteQ.git)
+    git clone [https://github.com/KokoYuardiA/NoteQ.git](https://github.com/KokoYuardiA/NoteQ.git)
     cd NoteQ
     ```
-    *(Ganti `KokoYuardi/NoteQ.git` dengan link repositori Anda)*
 
 2.  **Instal Dependensi:**
     ```bash
