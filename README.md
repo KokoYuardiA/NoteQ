@@ -18,7 +18,7 @@ Aplikasi mobile berbasis Flutter untuk mencatat dan mengelola pengingat harian A
 * **Flutter:** Framework UI open-source dari Google untuk membangun aplikasi mobile yang indah secara *natively* dari satu basis kode.
 * **Firebase:** Platform pengembangan aplikasi dari Google yang menyediakan berbagai layanan *backend* seperti:
     * **Firestore:** Database NoSQL *cloud-hosted* untuk menyimpan dan menyinkronkan data.
-    * **Authentication:** Mengelola otentikasi pengguna (misalnya, *login* anonim, email/password, Google Sign-In, dll. - *sebutkan yang Anda pakai*).
+    * **Authentication:** Mengelola otentikasi pengguna (misalnya, *login* anonim, email/password).
 
 ---
 
