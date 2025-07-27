@@ -68,4 +68,4 @@ Sangat dipersilakan untuk berkontribusi pada proyek NoteQ! Jika Anda menemukan *
 
 ## 🧑‍💻 Pengembang
 
-**Koko Yuardi** - [GitHub Profil Anda](https://github.com/KokoYuardiA)
+**Koko Yuardi** - [GitHub](https://github.com/KokoYuardiA)
