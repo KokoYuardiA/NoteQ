@@ -1,7 +1,4 @@
-# NoteQ - Your Daily Reminder Companion 📝
-
-![NoteQ Logo/Banner](link-gambar-logo-atau-banner-aplikasi-anda-jika-ada)
-*(Opsional: Ganti dengan link gambar logo atau banner aplikasi Anda. Jika belum ada, hapus baris ini.)*
+# NoteQ - Your Daily Notes Companion 📝
 
 Aplikasi mobile berbasis Flutter untuk mencatat dan mengelola pengingat harian Anda dengan mudah.
 
