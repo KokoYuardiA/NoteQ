@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA8C8F8LTVF83dYRbh9NH18sr9mPT6-xE0',
+    apiKey: 'YOUR_API_KEY_HERE',
     appId: '1:309040460950:web:9d9e2b06ca3ec3f783beb7',
     messagingSenderId: '309040460950',
     projectId: 'noteq-apps',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAgP7zJgQM99brFFS29IlPjyNwox-RRn-0',
+    apiKey: 'YOUR_API_KEY_HERE',
     appId: '1:309040460950:android:0ea932acac1aa52083beb7',
     messagingSenderId: '309040460950',
     projectId: 'noteq-apps',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBVwNFv-Gc58IT12rw7qPDSpL8G_D3EPX4',
+    apiKey: 'YOUR_API_KEY_HERE',
     appId: '1:309040460950:ios:5f343a439b8e232b83beb7',
     messagingSenderId: '309040460950',
     projectId: 'noteq-apps',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBVwNFv-Gc58IT12rw7qPDSpL8G_D3EPX4',
+    apiKey: 'YOUR_API_KEY_HERE',
     appId: '1:309040460950:ios:a846317ca502616f83beb7',
     messagingSenderId: '309040460950',
     projectId: 'noteq-apps',
